@@ -1,0 +1,7 @@
+[project]
+name = "historical-price-downloader"
+version = "0.1.0"
+description = "A script to easily download historical market prices."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["yfinance"]
