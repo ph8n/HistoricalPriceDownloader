@@ -19,7 +19,7 @@ Before you begin, ensure you have [uv](https://github.com/astral-sh/uv) installe
 
     ```bash
     git clone https://github.com/ph8n/HistoricalPriceDownloader
-    cd historical-price-downloader
+    cd HistoricalPriceDownloader
     ```
 
 2. **Create a virtual environment and install dependencies:**
